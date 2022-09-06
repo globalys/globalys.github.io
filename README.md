@@ -1,1 +1,1 @@
-"# globalys.github.io" 
+# globalys.github.io
