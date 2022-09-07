@@ -1,1 +1,0 @@
-# globalys.github.io
