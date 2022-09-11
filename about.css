@@ -10,7 +10,8 @@
 .u-section-1 .u-group-1 {
   width: 732px;
   min-height: 449px;
-  margin: 205px 186px 60px auto;
+  height: auto;
+  margin: 204px 186px 60px auto;
 }
 
 .u-section-1 .u-text-1 {
@@ -37,6 +38,7 @@
   .u-section-1 .u-group-1 {
     margin-top: 254px;
     margin-right: auto;
+    height: auto;
   }
 
   .u-section-1 .u-text-1 {
