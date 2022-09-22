@@ -8,8 +8,9 @@
 }
 
 .u-section-1 .u-group-1 {
-  width: 702px;
-  min-height: 300px;
+  width: 768px;
+  min-height: 319px;
+  height: auto;
   margin: 60px auto;
 }
 
@@ -19,30 +20,32 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-weight: 600;
+  font-weight: 700;
+  width: 614px;
   font-size: 4.5rem;
-  margin: 48px 36px 0;
+  margin: 47px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   text-transform: uppercase;
   letter-spacing: 2px;
-  width: 499px;
   font-size: 1.25rem;
-  margin: 8px auto 0;
+  width: 470px;
+  margin: 9px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
   border-style: none;
-  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
+  font-weight: 700;
   margin: 36px auto 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-group-1 {
     width: 679px;
+    height: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -137,7 +140,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 539px;
-  background-image: url("images/0e84c55db0cfa48d54fec9b7fed46a6a.jpeg");
+  background-image: url("images/066869a03b0c46e67325688104d2a88ac3500574207158085742d6c01443245a94be93c02911b28b1815cc751cd3df68c27a363a581ea673d22d36_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -158,7 +161,7 @@
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/b5e5a58706d150a523222d00c7c497740c4a2cdbc5071aa24d12c6b0aa3c9c5b814cd1fd45f2041b035c7aaf7bc7467f9d2fcf16ab4c682b4207cb_1280.jpg");
+  background-image: url("images/c94170446274364b616c30832a5225a4db9117d9b5e7aff2df0f0e8a5cc5ea5f6574d4be350296540f6d507d7debe2fbd22c0c2b3d876fb60b35ab_1280.jpg");
   min-height: 544px;
   background-position: 50% 50%;
 }
@@ -473,8 +476,8 @@
 }
 
 .u-section-3 .u-text-1 {
-  font-weight: 700;
   font-size: 3rem;
+  font-weight: bold;
   margin: 20px 20px 0 0;
 }
 
@@ -482,19 +485,18 @@
   font-size: 1.25rem;
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin: 20px 79px 0 0;
+  margin: 20px 78px 0 1px;
 }
 
 .u-section-3 .u-text-3 {
   font-size: 0.875rem;
-  margin: 19px 20px 0 0;
+  margin: 20px 20px 0 0;
 }
 
 .u-section-3 .u-btn-1 {
-  background-image: none;
   text-transform: uppercase;
   font-size: 0.875rem;
-  margin: 21px auto 0 0;
+  margin: 20px auto 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -518,6 +520,7 @@
 
   .u-section-3 .u-text-2 {
     margin-right: 65px;
+    margin-left: 0;
   }
 
   .u-section-3 .u-text-3 {
@@ -1495,7 +1498,6 @@
 }
 
 .u-section-7 .u-btn-1 {
-  background-image: none;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 2px;
